@@ -17,3 +17,5 @@ test/
 data/
 build/
 captcha.jpeg
+
+temp*.py
