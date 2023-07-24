@@ -19,3 +19,4 @@ build/
 captcha.jpeg
 
 temp*.py
+*.ipynb
